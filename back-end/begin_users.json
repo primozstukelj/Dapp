@@ -1,0 +1,34 @@
+{
+    "company": {
+        "name" : "Andy K.",
+        "revenue": "100.00",
+        "balance": "2460.00",
+        "contracts": [],
+        "skills": "18",
+        "projects": 4
+    },
+    "developer": {
+        "name" : "Sam S.",
+        "revenue": "0.00",
+        "balance": "250.00",
+        "contracts": [],
+        "skills": "20",
+        "projects": 4
+    },
+    "voter1": {
+        "name" : "Jack R.",
+        "revenue": "0.00",
+        "balance": "150.00",
+        "contracts": [],
+        "skills": "0",
+        "projects": 4
+    },
+    "voter2": {
+        "name" : "Michael J.",
+        "revenue": "0.00",
+        "balance": "450.00",
+        "contracts": [],
+        "skills": "0",
+        "projects": 4
+    }
+}
